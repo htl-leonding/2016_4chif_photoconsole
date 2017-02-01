@@ -11,7 +11,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.drewnoakes:metadata-extractor:2.9.1" level="project" />
-    <orderEntry type="library" name="Maven: com.adobe.xmp:xmpcore:5.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy:1.8.3" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-commons:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-util:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-analysis:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-tree:3.2" level="project" />
   </component>
 </module>

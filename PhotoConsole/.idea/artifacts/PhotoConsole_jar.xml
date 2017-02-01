@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhotoConsole:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="PhotoConsole.jar">
+      <element id="module-output" name="PhotoConsole" />
+    </root>
+  </artifact>
+</component>
